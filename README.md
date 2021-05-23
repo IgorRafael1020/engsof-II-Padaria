@@ -7,3 +7,5 @@
 #### Igor Rafael
 #### João Marcos Bernades
 #### Nicolas Katashi Uenojo Costa
+
+## Informações Importantes
