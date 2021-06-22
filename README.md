@@ -1,7 +1,7 @@
 # engsof-II-Padaria
 
 ## Resumo
-#### Esse projeto tem como objetivo resolver os problemas de um comércio fictícia que trabalha no ramo de Padaria.
+#### Esse projeto tem como objetivo resolver os problemas de uma padaria fictícia chamada Cantinho do Trigo. Ela precisa de um sistema que controle o estoque das mercadorias e faça o controle das vendas.
 
 ## Membros
 #### Igor Rafael
